@@ -1,4 +1,10 @@
 ## Hi there 👋
+My name is **Susan Pandey.** I am from **Lab University of Applied Science** studing Industrial Information Technology.
+I am from **Nepal.**
+I like reading Books,playing Cricket and Cooking.
+I except to be better in the field of technology by learning necessary skills and knowledge.
+I don't think lot about future.I live in present.
+[My Linkdin](https://www.linkedin.com/in/susan-pandey-33a00a293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 <!--
 **x135861/x135861** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
