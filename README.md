@@ -3,7 +3,7 @@ My name is **Susan Pandey.** I am from **Lab University of Applied Science** stu
 I am from **Nepal.**
 I like reading Books,playing Cricket and Cooking.
 I except to be better in the field of technology by learning necessary skills and knowledge.
-I don't think lot about future.I live in present.
+My future plan is to be one of the best in tech fiela and to get a good job.
 [My Linkdin](https://www.linkedin.com/in/susan-pandey-33a00a293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 <!--
